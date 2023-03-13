@@ -1,10 +1,10 @@
-# qt_calculator
-基於qt實現的簡易計算器
+# A calculator based on QT
 
-操作步驟：
-  * 1. 新建一個application項目，選擇Qt Widgets Application，之後的不用管。
-  * 2. 雙擊.ui文件，進入設計頁面。通過拖動建立合適的計算器主頁面
-  * 3. 創建好后，右擊每個對象，選擇改變對象名稱，將它改成容易辨別的名字
-  * 4. 右擊每個對象(text edit 對象除外)，選擇轉入槽，進入.cpp 文件，開始設計
-      
-main.cpp不用特殊處理。
+## Steps
+
+- Create a new application project, select Qt Widgets Application, and leave it alone.
+- Double-click the .ui file to enter the design page. Build the appropriate calculator home page by dragging
+- Once created, right-click on each object, select Change Object Name, and change it to an easily recognizable name
+- Right-click on each object (except the text edit object), select Transfer to Slot, enter the .cpp file, and start designing
+
+**main.cpp** does not need special treatment.
